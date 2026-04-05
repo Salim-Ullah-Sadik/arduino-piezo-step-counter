@@ -53,9 +53,6 @@ The piezoelectric sensor generates voltage when mechanical stress (like a footst
 
 ![Circuit Diagram](images/circuit-diagram.png)
 
-> ⚠️ Add your circuit image inside the `images/` folder with this name.
-
----
 
 ## 📷 Project Output
 
