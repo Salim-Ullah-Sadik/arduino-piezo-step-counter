@@ -108,7 +108,7 @@ This creates a **low-cost, real-time monitoring system** for footstep energy.
 2. Select **Board: Arduino Uno**  
 3. Select correct **COM Port**  
 4. Upload the code  
-5. Open **Serial Monitor (9600 baud)**  
+5. Open **Serial Monitor **  
 6. Tap or apply pressure to piezo sensor to simulate steps  
 
 ##  Challenges & Limitations
