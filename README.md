@@ -58,7 +58,6 @@ The piezoelectric sensor generates voltage when mechanical stress (like a footst
 
 ![Project Output](images/output.jpg)
 
-> Add a real photo of your setup for better presentation.
 
 ---
 
@@ -73,9 +72,5 @@ The piezoelectric sensor generates voltage when mechanical stress (like a footst
 
 ---
 
-## ⚠️ Calibration
 
-Adjust the threshold value in code:
-
-```cpp
 int threshold = 100;
