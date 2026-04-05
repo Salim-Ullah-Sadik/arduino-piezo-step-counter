@@ -73,4 +73,3 @@ The piezoelectric sensor generates voltage when mechanical stress (like a footst
 ---
 
 
-int threshold = 100;
